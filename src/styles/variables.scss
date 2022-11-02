@@ -1,0 +1,24 @@
+/* Color */
+$--color-red: black; // 品牌红
+$--color-yellow: #f48f18; // 营销色
+$--color-green: #2bab52; // 成功状态色
+$--color-golden: #c3945b; // 品牌金
+$--color-line: #d9d9d9;
+
+/* Text Color */
+$--text-color-base: #333; // 主要文字颜色
+$--text-color-base-inverse: #fff; // 文字反色
+$--text-color-secondary: #7f7f7f; // 次要文字颜色
+$--text-color-placeholder: #999; // 弱文字颜色
+$--text-color-disabled: #ccc; // 不可用文字颜色
+
+/* background-color */
+$--fill-body: #f4f4f4; // 通用背景色
+$--fill-bar: #fafafa; // bar背景
+$--fill-mask: rgba(0, 0, 0, 0.5); // 遮罩背景
+$--fill-gray: #7f7f7f; // 许多小图标的背景，比如一些小圆点，加减号
+$--fill-disable: #ccc; // 不可用背景色
+$--fill-default: #fff; // 默认背景色
+$--fill-model-btns-active: #f9f9f9; // 模态框按钮按压背景色
+$--fill-toast: rgba(0, 0, 0, 0.8);
+$-fill-model-default: #000; //弹框蒙版
